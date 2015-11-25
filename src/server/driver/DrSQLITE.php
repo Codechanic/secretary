@@ -1,12 +1,14 @@
 <?php
-/*
+/**
  *
- * @author: Antonio Membrides Espinosa
- * @mail: amembrides@uci.cu
- * @made: 23/4/2011
- * @update: 23/4/2011
- * @description: This is simple and Light Driver for SQLite DBSM
- * @require: PHP >= 5.2.*, libphp5-sqlite
+ * @framework: Bycod
+ * @package: Secretary
+ * @version: 1.0
+ * @description: This is simple and light lib for manage DBMS
+ * @authors: Ing. Antonio Membrides Espinosa<amembrides@uci.cu>
+ * @authors: Ing. Felix Ivan Romero Rodriguez<firomerorom4@gmail.com>
+ * @license: MIT
+ *
  *
  */
 namespace Secretary\src\server\driver;

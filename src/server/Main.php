@@ -1,16 +1,14 @@
 <?php
-/*
+/**
  *
  * @framework: Bycod
  * @package: Secretary
- * @version: 0.1
- * @description: This is simple and light lib for manage DBSM
- * @authors: ing. Antonio Membrides Espinosa
- * @mail: amembrides@uci.cu
- * @made: 23/4/2011
- * @update: 23/4/2011
- * @license: GPL v3
- * @require: PHP >= 5.2.*, Loader <= 0.1
+ * @version: 1.0
+ * @description: This is simple and light lib for manage DBMS
+ * @authors: Ing. Antonio Membrides Espinosa<amembrides@uci.cu>
+ * @authors: Ing. Felix Ivan Romero Rodriguez<firomerorom4@gmail.com>
+ * @license: MIT
+ *
  *
  */
 namespace Secretary\src\server;
